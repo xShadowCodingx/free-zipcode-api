@@ -5,6 +5,6 @@
 <p>I plan on utilizing PostGRES on vercel, however for now I will be pulling the information from the JSON file in the data folder</p>
 
 <ul>
-    <li>Get all information: /get-all-info</li>
-    <li>Get city, state, zip: /search?by=city-state-zip</li>
+    <li>Get all information: https://free-zipcode-api.vercel.app/get-all-info</li>
+    <li>Get city, state, zip: https://free-zipcode-api.vercel.app/search?by=city-state-zip</li>
 </ul>
