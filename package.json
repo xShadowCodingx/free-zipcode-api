@@ -1,0 +1,35 @@
+{
+  "name": "free-zipcode-api",
+  "version": "1.0.0",
+  "description": "Free API to get basic zipcode data for the US. This is a public API, however there are usage limits.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xShadowCodingx/free-zipcode-api.git"
+  },
+  "keywords": [
+    "api",
+    "zipcode",
+    "node",
+    "express",
+    "js",
+    "nodejs",
+    "javascript",
+    "public"
+  ],
+  "author": "Chase Quinn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xShadowCodingx/free-zipcode-api/issues"
+  },
+  "homepage": "https://github.com/xShadowCodingx/free-zipcode-api#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.2.0",
+    "sequelize": "^6.37.2",
+    "sqlite3": "^5.1.7"
+  }
+}
